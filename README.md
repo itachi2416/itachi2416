@@ -24,6 +24,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itachi2416&show_icons=true&locale=en&layout=compact" alt="itachi2416" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itachi2416&" alt="itachi2416" /></p>
+
 
 
